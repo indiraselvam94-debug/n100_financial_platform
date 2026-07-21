@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+
+database/*.db
+*.sqlite
+*.sqlite3
+
+python_files.txt
+python_list.txt
+ratio_engine.txt
+ratios.txt
