@@ -1,0 +1,93 @@
+company_id,company_name,ticker,broad_sector
+1,Company 1,CMP001,Information Technology
+2,Company 2,CMP002,Financials
+3,Company 3,CMP003,Consumer Staples
+4,Company 4,CMP004,Industrials
+5,Company 5,CMP005,Industrials
+6,Company 6,CMP006,Healthcare
+7,Company 7,CMP007,Information Technology
+8,Company 8,CMP008,Materials
+9,Company 9,CMP009,Information Technology
+10,Company 10,CMP010,Telecommunication
+11,Company 11,CMP011,Energy
+12,Company 12,CMP012,Financials
+13,Company 13,CMP013,Financials
+14,Company 14,CMP014,Information Technology
+15,Company 15,CMP015,Industrials
+16,Company 16,CMP016,Industrials
+17,Company 17,CMP017,Materials
+18,Company 18,CMP018,Telecommunication
+19,Company 19,CMP019,Financials
+20,Company 20,CMP020,Materials
+21,Company 21,CMP021,Industrials
+22,Company 22,CMP022,Materials
+23,Company 23,CMP023,Energy
+24,Company 24,CMP024,Industrials
+25,Company 25,CMP025,Utilities
+26,Company 26,CMP026,Telecommunication
+27,Company 27,CMP027,Consumer Staples
+28,Company 28,CMP028,Financials
+29,Company 29,CMP029,Healthcare
+30,Company 30,CMP030,Energy
+31,Company 31,CMP031,Consumer Discretionary
+32,Company 32,CMP032,Consumer Staples
+33,Company 33,CMP033,Healthcare
+34,Company 34,CMP034,Industrials
+35,Company 35,CMP035,Consumer Discretionary
+36,Company 36,CMP036,Information Technology
+37,Company 37,CMP037,Information Technology
+38,Company 38,CMP038,Energy
+39,Company 39,CMP039,Information Technology
+40,Company 40,CMP040,Consumer Discretionary
+41,Company 41,CMP041,Consumer Discretionary
+42,Company 42,CMP042,Telecommunication
+43,Company 43,CMP043,Consumer Staples
+44,Company 44,CMP044,Financials
+45,Company 45,CMP045,Utilities
+46,Company 46,CMP046,Materials
+47,Company 47,CMP047,Information Technology
+48,Company 48,CMP048,Energy
+49,Company 49,CMP049,Information Technology
+50,Company 50,CMP050,Materials
+51,Company 51,CMP051,Consumer Staples
+52,Company 52,CMP052,Telecommunication
+53,Company 53,CMP053,Consumer Discretionary
+54,Company 54,CMP054,Telecommunication
+55,Company 55,CMP055,Industrials
+56,Company 56,CMP056,Information Technology
+57,Company 57,CMP057,Financials
+58,Company 58,CMP058,Industrials
+59,Company 59,CMP059,Consumer Staples
+60,Company 60,CMP060,Information Technology
+61,Company 61,CMP061,Industrials
+62,Company 62,CMP062,Information Technology
+63,Company 63,CMP063,Energy
+64,Company 64,CMP064,Consumer Staples
+65,Company 65,CMP065,Utilities
+66,Company 66,CMP066,Consumer Discretionary
+67,Company 67,CMP067,Healthcare
+68,Company 68,CMP068,Consumer Discretionary
+69,Company 69,CMP069,Consumer Discretionary
+70,Company 70,CMP070,Industrials
+71,Company 71,CMP071,Consumer Staples
+72,Company 72,CMP072,Information Technology
+73,Company 73,CMP073,Telecommunication
+74,Company 74,CMP074,Healthcare
+75,Company 75,CMP075,Materials
+76,Company 76,CMP076,Industrials
+77,Company 77,CMP077,Healthcare
+78,Company 78,CMP078,Utilities
+79,Company 79,CMP079,Energy
+80,Company 80,CMP080,Consumer Staples
+81,Company 81,CMP081,Materials
+82,Company 82,CMP082,Industrials
+83,Company 83,CMP083,Consumer Discretionary
+84,Company 84,CMP084,Financials
+85,Company 85,CMP085,Industrials
+86,Company 86,CMP086,Financials
+87,Company 87,CMP087,Consumer Discretionary
+88,Company 88,CMP088,Energy
+89,Company 89,CMP089,Consumer Staples
+90,Company 90,CMP090,Information Technology
+91,Company 91,CMP091,Industrials
+92,Company 92,CMP092,Telecommunication
