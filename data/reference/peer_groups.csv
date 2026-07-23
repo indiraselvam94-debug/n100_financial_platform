@@ -1,0 +1,93 @@
+company_id,company_name,peer_group_name
+1,Company 1,Consumer
+2,Company 2,Banks
+3,Company 3,IT Services
+4,Company 4,Auto
+5,Company 5,Pharma
+6,Company 6,Pharma
+7,Company 7,FMCG
+8,Company 8,Banks
+9,Company 9,Consumer
+10,Company 10,Infrastructure
+11,Company 11,Banks
+12,Company 12,Capital Goods
+13,Company 13,Metals
+14,Company 14,IT Services
+15,Company 15,IT Services
+16,Company 16,Banks
+17,Company 17,Pharma
+18,Company 18,Pharma
+19,Company 19,Infrastructure
+20,Company 20,Capital Goods
+21,Company 21,IT Services
+22,Company 22,Infrastructure
+23,Company 23,Pharma
+24,Company 24,Consumer
+25,Company 25,Infrastructure
+26,Company 26,Metals
+27,Company 27,Pharma
+28,Company 28,Telecom
+29,Company 29,Capital Goods
+30,Company 30,Auto
+31,Company 31,IT Services
+32,Company 32,FMCG
+33,Company 33,Metals
+34,Company 34,Energy
+35,Company 35,Auto
+36,Company 36,FMCG
+37,Company 37,Pharma
+38,Company 38,Energy
+39,Company 39,Banks
+40,Company 40,Banks
+41,Company 41,Metals
+42,Company 42,Banks
+43,Company 43,Energy
+44,Company 44,Energy
+45,Company 45,Capital Goods
+46,Company 46,Auto
+47,Company 47,IT Services
+48,Company 48,Telecom
+49,Company 49,Infrastructure
+50,Company 50,Banks
+51,Company 51,Metals
+52,Company 52,Banks
+53,Company 53,Infrastructure
+54,Company 54,Auto
+55,Company 55,Consumer
+56,Company 56,Capital Goods
+57,Company 57,Energy
+58,Company 58,Capital Goods
+59,Company 59,Pharma
+60,Company 60,Banks
+61,Company 61,IT Services
+62,Company 62,Consumer
+63,Company 63,Pharma
+64,Company 64,Auto
+65,Company 65,Banks
+66,Company 66,Pharma
+67,Company 67,Banks
+68,Company 68,Metals
+69,Company 69,Auto
+70,Company 70,Telecom
+71,Company 71,Consumer
+72,Company 72,Energy
+73,Company 73,FMCG
+74,Company 74,Energy
+75,Company 75,Energy
+76,Company 76,Pharma
+77,Company 77,Consumer
+78,Company 78,Auto
+79,Company 79,Consumer
+80,Company 80,Consumer
+81,Company 81,Banks
+82,Company 82,Capital Goods
+83,Company 83,Consumer
+84,Company 84,FMCG
+85,Company 85,Infrastructure
+86,Company 86,Pharma
+87,Company 87,FMCG
+88,Company 88,Telecom
+89,Company 89,Metals
+90,Company 90,Auto
+91,Company 91,Consumer
+92,Company 92,Infrastructure
